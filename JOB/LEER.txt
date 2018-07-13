@@ -1,0 +1,3 @@
+La base de datos se llama "bd_practica", todo esto funciona de manera local,
+pues no me dio el tiempo suficiente por motivos personales,
+Gracias.
